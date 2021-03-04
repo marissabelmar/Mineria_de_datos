@@ -8,4 +8,6 @@
 
 [Ejercicios basicos de Python](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Ej_Python_1799361.ipynb)
 
+[Practica de Limpieza de datos]()
+
 ## Fase 2
