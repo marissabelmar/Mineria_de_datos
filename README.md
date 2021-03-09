@@ -10,7 +10,7 @@
 
 [Practica de Limpieza de datos](https://github.com/paolaim/mineria-datos/blob/gh-pages/Ej_Limpieza_Equipo7.ipynb)
 
-[Primera entrega del PIA]()
+[Primera entrega del PIA](https://github.com/paolaim/mineria-datos/blob/gh-pages/Avance_PIA_equipo07.ipynb)
 
 ## Fase 2
 
