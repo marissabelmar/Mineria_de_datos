@@ -20,4 +20,4 @@
 
 [Resultados de mini examenes de técnicas](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/%C3%81rboles%20de%20desici%C3%B3n%20resultados.pdf)
 
-[Mapa Mental II] (https://github.com/marissabelmar/Mineria_de_datos/blob/main/MapaMental_2_%7B1799361%7D.pdf)
+[Mapa Mental II](https://github.com/marissabelmar/Mineria_de_datos/blob/main/MapaMental_2_%7B1799361%7D.pdf)
