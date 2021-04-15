@@ -22,4 +22,4 @@
 
 [Mapa Mental II](https://github.com/marissabelmar/Mineria_de_datos/blob/main/MapaMental_2_%7B1799361%7D.pdf)
 
-[Practica de visualización de datos]
+[Practica de visualización de datos](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Visualizacion_Equipo7.ipynb)
