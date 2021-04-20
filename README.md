@@ -23,3 +23,7 @@
 [Mapa Mental II](https://github.com/marissabelmar/Mineria_de_datos/blob/main/MapaMental_2_%7B1799361%7D.pdf)
 
 [Practica de visualización de datos](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Visualizacion_Equipo7.ipynb)
+
+[Segunda entrega del PIA (1)](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/AvancePIA_II_003_07.ipynb)
+
+Segunda entrega del PIA (2)
