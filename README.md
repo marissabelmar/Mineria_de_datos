@@ -26,4 +26,4 @@
 
 [Segunda entrega del PIA (1)](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/AvancePIA_II_003_07.ipynb)
 
-Segunda entrega del PIA (2)
+[Segunda entrega del PIA (2)](https://github.com/paolaim/mineria-datos/blob/gh-pages/AvancePIA_II_003_07.ipynb)
