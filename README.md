@@ -31,3 +31,4 @@
 ## Fase 2
 
 [PIA Poster](https://github.com/paolaim/mineria-datos/blob/gh-pages/POSTER_MINERIA_07.pdf)
+
